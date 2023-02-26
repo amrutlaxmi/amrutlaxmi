@@ -4,9 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Amrutlaxmi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amrutlaxmi-chittaragi-6914b317a/)](https://www.linkedin.com/in/amrutlaxmi-chittaragi-6914b317a/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Amrutlaxmi-yellow)](https://stackoverflow.com/users/11297963/amrutlaxmi)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me.
+Welcome to my Github profile!
 
 ![Visitor Count](https://profile-counter.glitch.me/amrutlaxmi/count.svg) 
 
